@@ -18,6 +18,6 @@ The results of the reviews analyzed were stored in the analysis_data folder
 Please note that only English-written reviews will be analyzed, which may introduce a bias towards English-speaking individuals
 
 
-## Requirements
+## Tools
 - python3
 - jupyter Notebook
